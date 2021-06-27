@@ -1,7 +1,10 @@
 # Game-Of-Cones
 A small game made during a course in school. In this project we were 6 people who participated.
 
-My main tasks in this project were:
+### Game
+Eliminate visitors who get angry and attack you because your ice cream is not good enough.
+
+#### My main tasks in this project were:
 - To provide the game with sound and sound effects [DirectXTK Audio.h is used in this project]
 - Create a game manager.
 
