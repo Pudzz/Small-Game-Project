@@ -9,3 +9,5 @@ Eliminate visitors who get angry and attack you because your ice cream is not go
 - Create a game manager.
 
 The game manager handles both soundtracks, music and sound volumes on two different channels. It also sets variables for both players and enemies depending on the difficulty level. The last thing it handles is a highscore list that is updated after each played game, and which can also be seen in the main menu.
+
+Gameplay video: https://www.youtube.com/watch?v=3xQW1rpo2gM
