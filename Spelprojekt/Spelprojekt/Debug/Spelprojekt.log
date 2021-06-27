@@ -1,0 +1,58 @@
+﻿  AABB.cpp
+  Application.cpp
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(57,39): warning C4018: '<': signed/unsigned mismatch
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(132,63): warning C4316: 'Material': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(132,64): warning C4316: 'Object': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Application.cpp(7,96): warning C4316: 'Renderer': object allocated on the heap may not be aligned 16
+  Camera.cpp
+  CameraController.cpp
+  DX11Handler.cpp
+  GUISpriteObject.cpp
+  HeightMapGenerator.cpp
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\HeightMapGenerator.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\HeightMapGenerator.cpp(14,20): warning C4101: 'temp0': unreferenced local variable
+  GUI.cpp
+  GUIObject.cpp
+  GUITextObject.cpp
+  Input.cpp
+  Lights.cpp
+  main.cpp
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(57,39): warning C4018: '<': signed/unsigned mismatch
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(132,63): warning C4316: 'Material': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(132,64): warning C4316: 'Object': object allocated on the heap may not be aligned 16
+  Material.cpp
+  Object.cpp
+  Player.cpp
+  Renderer.cpp
+  RenderTarget.cpp
+  Scene.cpp
+  DevScene.cpp
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(57,39): warning C4018: '<': signed/unsigned mismatch
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(132,63): warning C4316: 'Material': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\assimpHandler.h(132,64): warning C4316: 'Object': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(5,73): warning C4316: 'Camera': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(6,101): warning C4316: 'CameraController': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(9,31): warning C4316: 'Lights': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(26,80): warning C4316: 'Material': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(26,81): warning C4316: 'Object': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(38,61): warning C4316: 'Material': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(44,54): warning C4316: 'Object': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(47,72): warning C4316: 'Material': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(47,92): warning C4316: 'Player': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(62,58): warning C4316: 'GUISpriteObject': object allocated on the heap may not be aligned 16
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Scenes\DevScene.cpp(65,56): warning C4316: 'GUISpriteObject': object allocated on the heap may not be aligned 16
+  Generating Code...
+  Compiling...
+  Texture.cpp
+  Shader.cpp
+  Timer.cpp
+  Transform.cpp
+  Window.cpp
+  Generating Code...
+DevScene.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) referenced in function "struct Mesh * __cdecl AssimpHandler::loadMesh(char const *,struct ID3D11Device *)" (?loadMesh@AssimpHandler@@YAPAUMesh@@PBDPAUID3D11Device@@@Z)
+DevScene.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) referenced in function "struct Mesh * __cdecl AssimpHandler::loadMesh(char const *,struct ID3D11Device *)" (?loadMesh@AssimpHandler@@YAPAUMesh@@PBDPAUID3D11Device@@@Z)
+DevScene.obj : error LNK2019: unresolved external symbol "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) referenced in function "struct Mesh * __cdecl AssimpHandler::loadMesh(char const *,struct ID3D11Device *)" (?loadMesh@AssimpHandler@@YAPAUMesh@@PBDPAUID3D11Device@@@Z)
+DevScene.obj : error LNK2019: unresolved external symbol _aiGetMaterialFloatArray referenced in function _aiGetMaterialFloat
+DevScene.obj : error LNK2019: unresolved external symbol _aiGetMaterialColor referenced in function "class Texture * __cdecl AssimpHandler::loadTextureFromFbx(char const *,class DX11Handler &,class Shader *)" (?loadTextureFromFbx@AssimpHandler@@YAPAVTexture@@PBDAAVDX11Handler@@PAVShader@@@Z)
+D:\repos\LitetSpelprojekt\Spelprojekt\\Spelprojekt\assimp-5.0.1\build\code\Debug\assimp-vc142-mtd.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\repos\LitetSpelprojekt\Spelprojekt\Debug\Spelprojekt.exe : fatal error LNK1120: 5 unresolved externals

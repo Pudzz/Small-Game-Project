@@ -1,0 +1,100 @@
+﻿  AABB.cpp
+  Animation.cpp
+  Application.cpp
+  Camera.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Camera.cpp(114,32): warning C4838: conversion from 'const SHORT' to 'float' requires a narrowing conversion
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Camera.cpp(114,41): warning C4838: conversion from 'const SHORT' to 'float' requires a narrowing conversion
+  CameraController.cpp
+  DevScene.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\DevScene.cpp(115,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  DX11Handler.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\DX11Handler.cpp(31,59): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\DX11Handler.cpp(32,61): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\DX11Handler.cpp(138,30): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\DX11Handler.cpp(139,32): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+  EndGUI.cpp
+  EndScene.cpp
+  Enemy.cpp
+  Entities.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Entities.cpp(133,9): warning C4267: 'argument': conversion from 'size_t' to 'const _Kty', possible loss of data
+          with
+          [
+              _Kty=int
+          ]
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Entities.cpp(140,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Entities.cpp(176,9): warning C4267: 'argument': conversion from 'size_t' to 'const _Kty', possible loss of data
+          with
+          [
+              _Kty=int
+          ]
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Entities.cpp(178,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Gamemanager.cpp
+  GUIActionbar.cpp
+  GUISprite.cpp
+  Icecream.cpp
+  IntroGUI.cpp
+  IntroScene.cpp
+  Joint.cpp
+  Physics.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Physics.cpp(11,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  QuadTree.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\QuadTree.cpp(39,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Compiling...
+  Resources.cpp
+  Skeleton.cpp
+  SpawnObjects.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\SpawnObjects.cpp(89,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Spoon.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Spoon.cpp(9,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SSAO.cpp
+  Terrain.cpp
+  GUI.cpp
+  GUIObject.cpp
+  GUIText.cpp
+  Input.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Input.cpp(55,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Input.cpp(61,21): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Input.cpp(62,23): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Input.cpp(63,38): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Input.cpp(64,37): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+  Lights.cpp
+  main.cpp
+  Material.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(81,50): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(86,50): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(68,19): warning C4101: 'bindType': unreferenced local variable
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(69,15): warning C4101: 'slot': unreferenced local variable
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(111,61): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(116,50): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(122,61): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(127,50): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(98,19): warning C4101: 'bindType': unreferenced local variable
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Material.cpp(99,15): warning C4101: 'slot': unreferenced local variable
+  Object.cpp
+  Player.cpp
+  Renderer.cpp
+  RenderTarget.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\RenderTarget.cpp(78,40): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\RenderTarget.cpp(79,42): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\RenderTarget.cpp(125,27): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\RenderTarget.cpp(126,29): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\RenderTarget.cpp(155,45): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\RenderTarget.cpp(194,46): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\RenderTarget.cpp(202,46): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  Scene.cpp
+  SoundHandler.cpp
+  Texture.cpp
+  Compiling...
+  Shader.cpp
+  Timer.cpp
+  Transform.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Transform.cpp(92,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Window.cpp
+  Projectile.cpp
+C:\Users\Pad\Desktop\Spelprojekt\Spelprojekt\Projectile.cpp(8,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Weapon.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3447 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Spelprojekt.vcxproj -> C:\Users\Pad\Desktop\Spelprojekt\x64\Release\Spelprojekt.exe

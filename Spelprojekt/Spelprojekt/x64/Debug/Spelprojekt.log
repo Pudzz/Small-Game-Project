@@ -1,0 +1,7 @@
+﻿  Input.cpp
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Input.cpp(65,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Input.cpp(71,21): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Input.cpp(72,23): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Input.cpp(73,38): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+D:\repos\LitetSpelprojekt\Spelprojekt\Spelprojekt\Input.cpp(74,37): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+  Spelprojekt.vcxproj -> D:\repos\LitetSpelprojekt\Spelprojekt\x64\Debug\Spelprojekt.exe
